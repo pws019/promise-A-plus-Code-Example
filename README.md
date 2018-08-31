@@ -6,7 +6,7 @@
 - test  
 提供给promises-aplus-tests这个工具的适配器。导
 - index.html 
-引入了promise的实现以以及浏览器端测试用test.js
+引入了promise的实现以以及浏览器端测试用的test.js
 - index.js
 promise/A+规范实现的主体文件
 - test.js
